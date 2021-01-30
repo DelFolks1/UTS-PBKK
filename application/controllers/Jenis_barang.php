@@ -1,6 +1,15 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+//*****************************************************
+// Filename: Jenis_barang.php                         *
+//                                                    *
+// Owner  : Raja P Boy                                *
+//                                                    *
+// Dikerjakan untuk keperluan UTS PBKK                *
+//                                                    *
+//*****************************************************
+
 class Jenis_barang extends CI_Controller {
 
 	public function __construct()
